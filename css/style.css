@@ -1,0 +1,87 @@
+/* Mudar a cor da navbar
+.bg-danger { 
+    background:blue!important;
+}
+.text-danger {
+    color:black!important;
+}
+*/
+
+/* Mudar a cor dos botões */
+.btn-outline-color {
+    background-color: white;
+    color: rgb(54, 54, 54);
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+}
+
+.btn-outline-color:hover {
+    background-color: rgb(220, 53, 69);
+    color: white;
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+}
+
+.btn-color {
+    background-color: rgb(220, 53, 69);
+    color: white;
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+}
+
+.btn-color:hover {
+    background-color: rgb(131, 131, 131);
+    color: white;
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+    
+}
+
+.btn-info {
+    background-color: white;
+    color: rgb(54, 54, 54);
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+}
+
+.btn-info:hover {
+    background-color: rgb(177, 177, 177);
+    color: rgb(54, 54, 54);
+    border-color: rgb(185, 185, 185);
+    transition: .3s;
+}
+
+.btn-fundo:hover {
+    background-color: rgb(220, 53, 69);
+}
+/* Mudar a cor dos botões ^^ */
+
+/* card hover */
+.card-bg {
+    background-color: rgb(248, 248, 248);
+    transition: .5s;
+}
+.card-bg:hover {
+    background-color: rgb(212, 177, 180);
+    transition: .5s;
+}
+/* card hover ^^ */ 
+
+/* Mudar o fundo do card e tamanho fonte */
+
+.bg-light {
+    background-color: rgb(240, 240, 240)!important;
+}
+
+.bg-preco {
+    background-color: rgb(219, 219, 219);
+}
+
+.fontsize-produtos {
+    font-size: 80%;
+}
+/* Mudar o fundo do card ^^*/
+
+.li {
+    list-style-type: decimal;
+}

@@ -1,0 +1,19 @@
+html {
+    position: relative;
+    min-height: 100%;
+    padding-bottom:80px;
+  }
+  body {
+    margin-bottom: 80px;
+  }
+  footer {
+      position: absolute;
+      height: 160px;
+      bottom: 0px;
+      left: 0px;
+      right: 0px;
+      margin-bottom: 0px;
+  }
+  .btn-fundo:hover {
+      background-color: rgb(220, 53, 69);
+  }
